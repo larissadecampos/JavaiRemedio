@@ -1,0 +1,2 @@
+# JavaiRemedio
+A ideia surgiu da necessidade de aproximar pacientes que necessitam de medicamentos de alto custo ao acesso a estes. O programa inicia com o usuário inserindo seus dados e o nome da medicação que necessita, em seguida há uma consulta sobre a disponibilidade do remédio em nosso banco de dados, que retorna ao usuário uma mensagem indicando a farmácia de alto custo mais próxima que oferece a medicação.     Esse é só o começo do projeto, nosso Back-end, mas aos poucos vamos evoluindo! Seguimos para os próximos passos! 🚀
